@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "React",
+      "price": "100",
+      "type": "js",
+      "brand": "fb",
+      "id": 1
+    },
+    {
+      "name": "Angular",
+      "price": "200",
+      "type": "Js",
+      "brand": "Google",
+      "id": 2
+    },
+    {
+      "name": "Vue",
+      "price": "50",
+      "type": "js",
+      "brand": "Unknown",
+      "id": 3
+    }
+  ]
+}
